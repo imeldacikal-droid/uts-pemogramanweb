@@ -1,1 +1,9 @@
-/* style */
+/* assets/style.css
+   Tampilan tambahan buatan kelompok, dimuat setelah CSS template SB Admin. */
+
+/* Angka besar di kartu ringkasan dashboard */
+.card-angka {
+    font-size: 2.25rem;
+    font-weight: 700;
+    line-height: 1;
+}
